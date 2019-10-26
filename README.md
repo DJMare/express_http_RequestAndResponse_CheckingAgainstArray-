@@ -23,7 +23,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(10) Open in VS code: 
+(10) Open in VS code: ![open in vs code - index js (_CheckingAgainstArray)](https://user-images.githubusercontent.com/35668707/67612946-801dcf80-f75c-11e9-9033-8ebe0cb683a3.JPG)
+
 
 (11) Navigate to the routes/index.js file and add an array string to check against in Postman: 
 
