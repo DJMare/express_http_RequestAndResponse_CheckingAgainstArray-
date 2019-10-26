@@ -25,12 +25,12 @@ VS CODE
 
 (10) Open in VS code: 
 
-(11) Navigate to the routes/index.js file and add an the routes for basic CRUD operations: 
+(11) Navigate to the routes/index.js file and add an array string to check against in Postman: 
 
 
 
 POSTMAN
 
-(12) In Postman, navigate to localserver:3000 to see changes for each route:
+(12) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
 
 
