@@ -29,10 +29,10 @@ VS CODE
 (11) Navigate to the routes/index.js file and add an array string to check against in Postman: ![add an array string to check against in Postman - index js (_CheckingAgainstArray)](https://user-images.githubusercontent.com/35668707/67612956-9a57ad80-f75c-11e9-9c99-4cd18d318043.JPG)
 
 
-
-
 POSTMAN
 
 (12) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
+![Use GET route to check against array in Postman - Yes in array](https://user-images.githubusercontent.com/35668707/67612992-05a17f80-f75d-11e9-875f-32dc8767872c.JPG)
+
 
 
