@@ -34,5 +34,7 @@ POSTMAN
 (12) In Postman, navigate to localserver:3000 and use the GET route to see changes for both scenarios:
 ![Use GET route to check against array in Postman - Yes in array](https://user-images.githubusercontent.com/35668707/67612992-05a17f80-f75d-11e9-875f-32dc8767872c.JPG)
 
+![Use GET route to check against array in Postman - No not in array](https://user-images.githubusercontent.com/35668707/67613013-38e40e80-f75d-11e9-81bd-5526b7f914e2.JPG)
+
 
 
