@@ -35,7 +35,9 @@ COMMAND PROMPT
 
     npm install -g nodemon
 
-(9) Start the server with Nodemon with the following command: nodemon
+(9) Start the server with Nodemon with the following command: 
+
+    nodemon
 
 VS CODE
 
