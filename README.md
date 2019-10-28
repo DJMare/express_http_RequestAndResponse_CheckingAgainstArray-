@@ -27,9 +27,13 @@ COMMAND PROMPT
 
     cd express_http_RequestAndResponse_CheckingAgainstArray  
 
-(7) Now in the express_http_RequestAndResponse_CheckingAgainstArray directory, run the following: npm install
+(7) Now in the express_http_RequestAndResponse_CheckingAgainstArray directory, run the following: 
 
-(8) Install Nodemon globally: npm install -g nodemon
+    npm install
+
+(8) Install Nodemon globally: 
+
+    npm install -g nodemon
 
 (9) Start the server with Nodemon with the following command: nodemon
 
