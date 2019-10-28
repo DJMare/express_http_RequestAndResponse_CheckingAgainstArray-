@@ -19,9 +19,13 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_CheckingAgainstArray: express --view=hbs express_http_RequestAndResponse_CheckingAgainstArray 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_http_RequestAndResponse_CheckingAgainstArray: 
 
-(6) Once the process is complete, navigate into the express_http_RequestAndResponse_CheckingAgainstArray directory: cd express_http_RequestAndResponse_CheckingAgainstArray  
+    express --view=hbs express_http_RequestAndResponse_CheckingAgainstArray 
+
+(6) Once the process is complete, navigate into the express_http_RequestAndResponse_CheckingAgainstArray directory: 
+
+    cd express_http_RequestAndResponse_CheckingAgainstArray  
 
 (7) Now in the express_http_RequestAndResponse_CheckingAgainstArray directory, run the following: npm install
 
