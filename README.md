@@ -3,7 +3,9 @@ A simple express http request and response app using req.query to check against 
 
 COMMAND PROMPT
 
-(1) Run the following to navigate to your Desktop: cd Desktop
+(1) Run the following to navigate to your Desktop: 
+
+    cd Desktop
 
 (2) Create a new folder on desktop: mkdir Express
 
