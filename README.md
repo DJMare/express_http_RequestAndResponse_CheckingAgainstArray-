@@ -54,5 +54,18 @@ POSTMAN
 
 ![Use GET route to check against array in Postman - No not in array](https://user-images.githubusercontent.com/35668707/67613013-38e40e80-f75d-11e9-81bd-5526b7f914e2.JPG)
 
+NODEMON NOTE
+
+Sometimes nodemon crashes in Windows 10 and there is a simple fix:
+
+(1) Open Task manager (press Ctrl+Alt+Delete)
+
+(2) Select the 'Processes tab'
+
+(3) Search for 'Node.js: Server-side JavaScript'
+
+(4) Select it and click on 'End task' button
+
+Now you can run npm start.
 
 
