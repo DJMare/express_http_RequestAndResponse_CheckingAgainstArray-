@@ -1,4 +1,4 @@
-# express_http_RequestAndResponse_CheckingAgainstArray
+# Express_http_RequestAndResponse_CheckingAgainstArray
 A express http request and response app using req.query to check against an array and view in Postman. 
 
 COMMAND PROMPT
